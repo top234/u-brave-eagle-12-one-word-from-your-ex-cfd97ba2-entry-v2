@@ -1,0 +1,8 @@
+{
+  "name": "one-word-from-your-ex-v2",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "main": "main.ts",
+  "license": "MIT"
+}
